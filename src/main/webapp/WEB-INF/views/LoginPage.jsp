@@ -46,7 +46,7 @@
                 <input type="email" id="email" name="username" style="margin-bottom: 5px;" required>
                 <label for="password">Password</label>
                 <input type="password" id="password" name="password" required>
-                <input type="submit" id="btn-submit" value="Submit">
+                <input type="submit" id="btn-submit" value="Login">
 
             </form>
             <a id="btn-signup" href="SignUp"> Sign Up </a>
